@@ -12,14 +12,14 @@ Ayudante: Julio Santibañez.
 
 ______
 
-I. Script Pruebas:
+## I. Script Pruebas:
 
-A. [Automata Celular Unidimensional - Reglas Wolfram - [0, 1]](https://github.com/educarrascov/DISC_Complex/blob/main/Script%20Prueba/20230317%20ECA_pruebas.ipynb)
-B. [Automata Celular Unidimensional - Regla Totalística - [0, 1]](https://github.com/educarrascov/DISC_Complex/blob/main/Script%20Prueba/Uni_totalistica_%5B0%2C1%5D-prueba.ipynb)
-C. [Automata Celular Unidimensional - Regla Totalística - [-1, 1]](https://github.com/educarrascov/DISC_Complex/blob/main/Script%20Prueba/Uni_totalistica_%5B-1%2C1%5D-pruebas.ipynb)
-D. [Automata Celular Bidimensional](https://github.com/educarrascov/DISC_Complex/blob/main/Script%20Prueba/20230319%20Bi_CA_proposal.ipynb)
+- A. [Automata Celular Unidimensional - Reglas Wolfram - [0, 1]](https://github.com/educarrascov/DISC_Complex/blob/main/Script%20Prueba/20230317%20ECA_pruebas.ipynb)
+- B. [Automata Celular Unidimensional - Regla Totalística - [0, 1]](https://github.com/educarrascov/DISC_Complex/blob/main/Script%20Prueba/Uni_totalistica_%5B0%2C1%5D-prueba.ipynb)
+- C. [Automata Celular Unidimensional - Regla Totalística - [-1, 1]](https://github.com/educarrascov/DISC_Complex/blob/main/Script%20Prueba/Uni_totalistica_%5B-1%2C1%5D-pruebas.ipynb)
+- D. [Automata Celular Bidimensional](https://github.com/educarrascov/DISC_Complex/blob/main/Script%20Prueba/20230319%20Bi_CA_proposal.ipynb)
 
 ______
-II. Script Final:
+## II. Script Final:
 
-A. [Automata Celular Bidimensional - Regla Totalística - [-1, 1]](https://github.com/educarrascov/DISC_Complex/blob/main/Script%20Prueba/4.%20Tarea%20Final/Pruebas%20Bidimensionales.ipynb)
+- A. [Automata Celular Bidimensional - Regla Totalística - [-1, 1]](https://github.com/educarrascov/DISC_Complex/blob/main/Script%20Prueba/4.%20Tarea%20Final/Pruebas%20Bidimensionales.ipynb)
